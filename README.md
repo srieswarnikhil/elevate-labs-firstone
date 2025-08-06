@@ -1,7 +1,9 @@
 # elevate-labs-firstone
-Data cleaned and performed 
+
 Hi,
 I have complete the task
+Data cleaned and performed 
+Duplicated removed and null identified
 Header changed to small and renamed.
 orderdate is formatted to dd-mm-yyyy
 state column containes null values filled with NA
